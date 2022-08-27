@@ -1,0 +1,10 @@
+• Language: Python.
+• Web Technologies: HTML5, CSS3,
+JavaScript, React.js.
+• Database: MySql, ChatEngineio.
+• Operating system: MacOs, Windows,
+Raspberry pi3 & 4 OS.
+• Software’s handled: Atom, VsCode
+editor, Pycharm, Sublime text editor.
+• MS OFFICE: Word, PowerPoint.
+• Having Basic knowledge in AI &ML,
